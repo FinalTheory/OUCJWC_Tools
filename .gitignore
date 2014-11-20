@@ -99,6 +99,6 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 *.txt
-
+*.csv
 
 .idea/
