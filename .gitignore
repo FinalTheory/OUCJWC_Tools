@@ -98,7 +98,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-passwd.txt
+*.txt
 *.csv
 
 .idea/
