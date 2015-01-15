@@ -51,3 +51,15 @@
 
 #### 运行演示
 <img src="https://raw.githubusercontent.com/FinalTheory/OUCJWC_Tools/master/show4.gif">
+
+### 暴力选课器
+
+转专业时教务处不给加课？挂了的科目莫名其妙没法点重修？请使用暴力选课器，强行重修课程，破除一切选课烦恼！
+
+Warning: 本工具仅为学习交流而开发，请勿用作任何有违选课公平的用途。**因使用不当所造成的一切后果与作者无关！**
+
+Hint: 需要[PyV8](https://code.google.com/p/pyv8/)模块的支持。
+
+#### 运行演示
+<img src="https://raw.githubusercontent.com/FinalTheory/OUCJWC_Tools/master/show5.gif">
+

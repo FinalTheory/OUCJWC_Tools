@@ -2,10 +2,7 @@
 
 __author__ = 'FinalTheory'
 
-import csv
-import BeautifulSoup
 from CommonGUI import *
-from base64 import encodestring
 from tkMessageBox import showinfo
 
 
